@@ -1,0 +1,54 @@
+.areaList{
+    background-color: #258ea6;
+}
+
+.areaDetail{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 50mm;
+    justify-content: center;
+}
+
+.inforAreaDetail{
+    margin: auto;
+    flex-direction: row;
+    width: 100%;
+    height: 70%;
+    display: flex;
+}
+
+.inforAreaID{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 35%;
+    margin: auto;
+}
+
+
+.inforAreaStatus{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+}
+    .inforAreaStatusOnOff {
+        margin: auto;
+        height: 70%;
+    }
+
+    .inforAreaStatusPower{
+        margin: auto;
+        height: 30%;
+    }
+
+.buttonArea{
+    display: flex;
+    width: 100%;    
+}
+    .buttonArea a{
+        margin: auto;
+    }
+
