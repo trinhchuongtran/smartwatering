@@ -1,0 +1,20 @@
+.sensorDetail{
+    display: flex;
+    flex-direction: column;
+}
+
+    .inforSensor{
+        margin: auto;
+    }
+
+    .buttonSensor{
+        display: flex;
+        margin: auto;
+        flex-direction: row;
+    } 
+    .buttonSensor a{
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+    
